@@ -1,7 +1,7 @@
 # BMI calculator 
 
-weigth = int(input(Write down your weight in KG))
-height = int(input(Write down your height in Meter))
+weigth = int(input(Write down your weight in kg))
+height = int(input(Write down your height in m))
 
 Bmi = weight/height**2
 
